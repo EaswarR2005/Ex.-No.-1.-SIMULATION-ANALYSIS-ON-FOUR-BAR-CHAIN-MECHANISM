@@ -1,7 +1,5 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
-
 ## AIM:
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
@@ -54,9 +52,10 @@
 
 ## Output:
 
+### Name: EASWAR R
+### Register Number: 212223230053
+![EMPD output 1](https://github.com/user-attachments/assets/025a57f8-ebb8-4d70-9cfc-b0a19fabd219)
 
-### Name:
-### Register Number: 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
